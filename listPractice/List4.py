@@ -23,4 +23,13 @@ for num in range (1,100):
     else:
         print(num)
 
+#print(help(myList.append))
+def hello():
+    '''
+    my docs
+    '''
+    print("hello")
+    print("buddy")
 
+hello()
+hello()
